@@ -11,6 +11,7 @@ namespace Example
         static void Main(string[] args)
         {
             ///Example
+            ///example 2
         }
     }
 }
